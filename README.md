@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -22,34 +17,49 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Roles to define user permission
+- Create Departments to outline group duties
+- Configure Teams and Agents
+- Configure SLA (Service Level Agreement)
+- Configuring Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415577247498240/image.png"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415792490795088/image.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For my first line of action, I will create the Head Administrator role by navigating to the Admin Panel > Agents > Roles, this step ensures that management will be able to oversee and correct any outstanding issues
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419436082667580/image.png"/>
+<p>
+
+Now I will create the 2 teams 
+- Level I Support
+
+- Level II Support
+</p>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419877147299920/image.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Level I Support will be responsible for more simpler tasks such as factory resets or general information. Deep issues in the infrastructure of the website will be escalated to level II support for their evaluation.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095422542707167372/image.png"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next i'll configure SLA levels, with SEV-A being the most urgent usually used in cases of widespread service disruption, SEV-B will be utilized for deeper issues on a smaller scale, SEV-C will be used for everything else.
 </p>
 <br />
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095430358037712907/image.png"/>
+</p>
+Help topics are used to guide what information is gathered from Users and how tickets are routed or assigned
+
+Now w
