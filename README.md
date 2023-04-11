@@ -38,7 +38,7 @@ For my first line of action, I will create the Head Administrator role by naviga
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419436082667580/image.png"/>
 <p>
 
-Now I will create the 2 teams 
+Now I will create the 2 teams and my 2 agents by navitating to Agents > Roles/ Agents > Agents
 - Level I Support
 
 - Level II Support
@@ -48,6 +48,8 @@ Now I will create the 2 teams
 <p>
 Level I Support will be responsible for more simpler tasks such as factory resets or general information. Deep issues in the infrastructure of the website will be escalated to level II support for their evaluation.
 </p>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095421033554657391/image.png"/>
+For my Head Admin, I will create an account for Marlon Robinson and For my Level I support I created Dominic Clark 
 <br />
 
 <p>
@@ -62,4 +64,4 @@ Next i'll configure SLA levels, with SEV-A being the most urgent usually used in
 </p>
 Help topics are used to guide what information is gathered from Users and how tickets are routed or assigned
 
-Now w
+Now with all of these steps, the Rainbow Help Desk is prepared to take incoming requests from clients 
