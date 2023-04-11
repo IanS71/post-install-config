@@ -46,12 +46,16 @@ Now I will create the 2 teams and my 2 agents by navitating to Agents > Roles/ A
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419877147299920/image.png"/>
 </p>
 <p>
-Level I Support will be responsible for more simpler tasks such as factory resets or general information. Deep issues in the infrastructure of the website will be escalated to level II support for their evaluation.
+Level I Support will be responsible for more simpler tasks such as factory resets or general information. 
+
+Deep issues in the infrastructure of the website will be escalated to Level II Support for their evaluation.
 </p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095421033554657391/image.png"/>
-For my Head Admin, I will create an account for Marlon Robinson and For my Level I support I created Dominic Clark 
-<br />
 
+For my Head Administrator I will create Marlon Robinson , and Dominic Clark as my Level I support (names used for demo purposes and do not reflect real people)
+
+
+<p>
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095422542707167372/image.png"/>
 
