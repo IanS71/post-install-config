@@ -68,4 +68,4 @@ Next i'll configure SLA levels, with SEV-A being the most urgent usually used in
 </p>
 Help topics are used to guide what information is gathered from Users and how tickets are routed or assigned
 
-Now with all of these steps, the Rainbow Help Desk is prepared to take incoming requests from clients 
+- Now with all of these steps, the Rainbow Help Desk is prepared to take incoming requests from clients 
