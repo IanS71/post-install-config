@@ -52,7 +52,7 @@ Deep issues in the infrastructure of the website will be escalated to Level II S
 </p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095421033554657391/image.png"/>
 
-For my Head Administrator I will create Marlon Robinson , and Dominic Clark as my Level I support (names used for demo purposes and do not reflect real people)
+For my Head Administrator I will create Marlon Robinson , and Dominic Clark as my Level I support (names used for demo purposes do not reflect real people)
 
 
 <p>
