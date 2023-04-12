@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Step I - Roles</h2>
 
 <p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415577247498240/image.png"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095610767174275103/image.png"/>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415792490795088/image.png"/>
 </p>
 <p>
