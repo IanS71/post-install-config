@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415792490795088/image.png"/>
 </p>
 <p>
-For my first line of action, I will create the Head Administrator role by navigating to the Admin Panel > Agents > Roles, this step ensures that management will be able to oversee and correct any outstanding issues
+For my first line of action, I will create the Head Administrator role by navigating to the Admin Panel > Agents > Roles, this step ensures that management will be able to oversee and assist any issues.
 </p>
 <br />
 
