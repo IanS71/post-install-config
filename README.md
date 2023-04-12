@@ -38,7 +38,7 @@ For my first line of action, I will create the Head Administrator role by naviga
 <h2>Creating Departments</h2>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419436082667580/image.png"/>
 <p>
-
+<h2>Creating Agents and Teamsl</h2>
 Now I will create the 2 teams and my 2 agents by navitating to Agents > Roles/ Agents > Agents
 - Level I Support
 
