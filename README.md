@@ -27,6 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095610767174275103/image.png"/>
+</p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415792490795088/image.png"/>
 </p>
 <p>
