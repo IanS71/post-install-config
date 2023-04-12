@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA (Service Level Agreement)
 - Configuring Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Step I - Roles</h2>
 
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415577247498240/image.png"/>
@@ -35,6 +35,7 @@ For my first line of action, I will create the Head Administrator role by naviga
 <br />
 
 <p>
+<h2>Creating Departments</h2>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419436082667580/image.png"/>
 <p>
 
@@ -46,7 +47,7 @@ Now I will create the 2 teams and my 2 agents by navitating to Agents > Roles/ A
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419877147299920/image.png"/>
 </p>
 <p>
-Level I Support will be responsible for more simpler tasks such as factory resets or general information. 
+Level I Support will be responsible for simple tasks such as password resets or general information. 
 
 Deep issues in the infrastructure of the website will be escalated to Level II Support for their evaluation.
 </p>
@@ -56,6 +57,7 @@ For my Head Administrator I will create Marlon Robinson , and Dominic Clark as m
 
 
 <p>
+<h2>Configuring SLA (Service Level Agreement)</h2>
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095422542707167372/image.png"/>
 
@@ -63,6 +65,7 @@ For my Head Administrator I will create Marlon Robinson , and Dominic Clark as m
 <p>
 Next i'll configure SLA levels, with SEV-A being the most urgent usually used in cases of widespread service disruption, SEV-B will be utilized for deeper issues on a smaller scale, SEV-C will be used for everything else.
 </p>
+<h2>Help Topics</h2>
 <br />
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095430358037712907/image.png"/>
 </p>
