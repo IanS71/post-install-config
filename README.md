@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095415792490795088/image.png"/>
 </p>
 <p>
-For my first line of action, I will create the Head Administrator role by navigating to the Admin Panel > Agents > Roles, this step ensures that management will be able to oversee and assist any issues.
+For my first line of action, I will create the Head Administrator role by navigating to the Admin Panel > Agents > Roles, this step ensures that management will be able to oversee and assist with any issues.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ For my first line of action, I will create the Head Administrator role by naviga
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095419436082667580/image.png"/>
 <p>
 <h2>Creating Agents and Teams</h2>
-Now I will create the 2 teams and my 2 agents by navitating to Agents > Roles/ Agents > Agents
+Now I will create the 2 teams and my 2 agents by navigating to Agents > Roles/ Agents > Agents
 - Level I Support
 
 - Level II Support
@@ -54,7 +54,7 @@ Deep issues in the infrastructure of the website will be escalated to Level II S
 </p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095421033554657391/image.png"/>
 
-For my Head Administrator I will create Marlon Robinson , and Dominic Clark as my Level I support (names used for demo purposes do not reflect real people)
+For my Head Administrator I will create Marlon Robinson, and Dominic Clark as my Level I support (names used for demo purposes do not reflect real people)
 
 
 <p>
@@ -64,12 +64,12 @@ For my Head Administrator I will create Marlon Robinson , and Dominic Clark as m
 
 </p>
 <p>
-Next i'll configure SLA levels, with SEV-A being the most urgent usually used in cases of widespread service disruption, SEV-B will be utilized for deeper issues on a smaller scale, SEV-C will be used for everything else.
+Next, I'll configure SLA levels, with SEV-A being the most urgent usually used in cases of widespread service disruption, SEV-B will be utilized for deeper issues on a smaller scale, and SEV-C will be used for everything else.
 </p>
 <h2>Help Topics</h2>
 <br />
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095430358037712907/image.png"/>
 </p>
-Help topics are used to guide what information is gathered from Users and how tickets are routed or assigned
+Help topics are used to guide what information is gathered from Users and how tickets are routed or assigned.
 
 - Now with all of these steps, the Rainbow Help Desk is prepared to take incoming requests from clients 
